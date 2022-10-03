@@ -1,3 +1,6 @@
 Hello, world!
 Git is pretty cool
+<<<<<<< HEAD
 One more change!
+=======
+>>>>>>> 13ff1ed81309de57bf48011c698018592f3f2b2f
