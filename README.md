@@ -1,1 +1,1 @@
-Sohan Mulamalla Smulamalla
+Sohan Mulamalla
